@@ -9,9 +9,7 @@ Then for each of the questions one should also ask what do you compare it to and
 
 Another effective question to ask are what programming languages do you know.  A talented developer should know multiple languages and should be continuously learning the new emerging languages and honing their craft.
 
-
-!(http://blog.cauvin.org/2012/01/top-5-prospect-interview-mistakes.html)
-
+http://3.bp.blogspot.com/-Gw-UR-rsA2o/TwpE3rMLWbI/AAAAAAAAByE/E4OOHlq5KjE/s1600/Overconfidence.jpg
 
 A great way to find a developer is to attend meetups. I have included the link to the Ruby on Rails NYC meetup page below.
 http://www.meetup.com/nyc-on-rails/
