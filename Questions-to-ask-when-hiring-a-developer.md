@@ -5,15 +5,12 @@ When hiring a developer there are three key questions one should ask in order to
 2) Which framework do you use? And 
 3) Which unit testing program do you use? 
 
-Then for each of the questions one should also ask what do you compare it to and why did you choose it? A qualified and capable developer should have clear answers to each of these questions.  Even if the interviewer is not knowledgeable of thes topics  
+Then for each of the questions one should also ask what do you compare it to and why did you choose it? A qualified and capable developer should have clear answers to each of these questions.  Even if the interviewer is not knowledgeable of these topics, they should be able to rudimentary assess the developer’s ability based on the clarity and the ease in which they answer.  
 
-Another effective question to ask are what programming languages do you know.  A talented developed should know multiple languages and should be continuously learning the new emerging languages and honing their craft.
-
-http://blog.cauvin.org/2012/01/top-5-prospect-interview-mistakes.html
+Another effective question to ask are what programming languages do you know.  A talented developer should know multiple languages and should be continuously learning the new emerging languages and honing their craft.
 
 
-
-![Alt text](/http://blog.cauvin.org/2012/01/top-5-prospect-interview-mistakes.html)
+!(http://blog.cauvin.org/2012/01/top-5-prospect-interview-mistakes.html)
 
 
 A great way to find a developer is to attend meetups. I have included the link to the Ruby on Rails NYC meetup page below.
